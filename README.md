@@ -14,6 +14,10 @@
 Building Amazing Projects • Learning Every Day • Creating the Future
 </p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 👋 Hi, I'm Roopesh Navale
 
 💙 BCA Student
